@@ -1,24 +1,25 @@
 # dendiss-zone
 
-Logbuch Deniz für die Projektzeit
+ Logbuch Deniz für die Projektzeit
 
 
 <!--
 !starter_template
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-Logbuch 
-Deniz Sezer     01.02.2023
+xx
+ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+ Logbuch 
+ Deniz Sezer     01.02.2023
 
-Themen:         - Text
-leicht🙂:       - 
-schwer☹️:       - 
-nachfragen:     - 
-sonstiges🤷:    - 
+ Themen:         - Text
+ leicht🙂:       - 
+ schwer☹️:       - 
+ nachfragen:     - 
+ sonstiges🤷:    - 
 
 
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
--->
+ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+xx
 
 
 Logbuch 
@@ -70,3 +71,5 @@ sonstiges 🤷:   hätte mir lieber gewünscht, dass die Text-Dateien vor Montag
                 1. kürzer und 2. in einer höheren Qualität gewesen.
 
 
+
+-->
