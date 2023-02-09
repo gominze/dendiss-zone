@@ -1,7 +1,8 @@
 # dendiss-zone
-## Logbuch Deniz für die Projektzeit
----
+## Logbuch für die Projekphase-Februar
+
 !starter_template
+---
 # Logbuch 
 ## Deniz Sezer
 ### 01.02.2023
