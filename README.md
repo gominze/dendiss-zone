@@ -3,13 +3,21 @@
 
 ---
 *!starter_template*
+
 > Logbuch 
+
 >> 01.02.2023
+
 - Themen:
+
 - leicht🙂:
+
 - schwer☹️:
+
 - nachfragen:
+
 - sonstiges🤷:
+
 ---
 
 > Logbuch 
@@ -58,4 +66,4 @@
 - schwer ☹️:	
 - nachfragen:	
 - sonstiges 🤷:
-- * hätte mir lieber gewünscht, dass die Text-Dateien vor Montag freigegeben wären. So hätte jeder selbst vorher lesen können und aufgrund dessen wäre das heutige Meet 1. kürzer und 2. in einer höheren Qualität gewesen.
+* hätte mir lieber gewünscht, dass die Text-Dateien vor Montag freigegeben wären. So hätte jeder selbst vorher lesen können und aufgrund dessen wäre das heutige Meet 1. kürzer und 2. in einer höheren Qualität gewesen.
