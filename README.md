@@ -5,8 +5,9 @@
 
 > !starter_template
 - xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-- Logbuch 
-- Deniz Sezer     01.02.2023
+> Logbuch 
+>> Deniz Sezer
+>>> 01.02.2023
 
 - Themen:         - Text
 - leicht🙂:       - 
