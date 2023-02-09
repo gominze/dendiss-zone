@@ -1,17 +1,17 @@
 # dendiss-zone
-> Logbuch für die Projekphase-Februar
+## Logbuch für die Projekphase-Februar
 ---
 *!starter_template*
-> Logbuch 
->> 01.02.2023
+### Logbuch 
+> 01.02.2023
 - Themen:
 - leicht🙂:
 - schwer☹️:
 - nachfragen:
 - sonstiges🤷:
 ---
-> Logbuch 
->> 08.02.2023
+### Logbuch 
+> 08.02.2023
 - Themen: 
 > Daily Standup
 > Teammeet
@@ -29,8 +29,8 @@
 - sonstiges🤷:
 > Die 3 Wochen Aufgabe ist echt hart
 
-> Logbuch
->> 07.02.2023
+### Logbuch
+> 07.02.2023
 - Themen:
 > Daily Standup
 > Git Lernspiel
@@ -44,8 +44,8 @@
 > Ist dieses persönliche Logbuch so für dich gelungen/ok…?
 - sonstiges 🤷:
 
-> Logbuch 
->> 06.02.2023
+### Logbuch 
+> 06.02.2023
 - Themen:
 > Kurs: Projektzeit bzw Ablauf Präsentation
 > Selbständig:
