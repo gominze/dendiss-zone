@@ -8,16 +8,13 @@
 # Logbuch 
 ## Deniz Sezer
 ### 01.02.2023
-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+---
 - Themen:
 - leicht🙂:
 - schwer☹️:
 - nachfragen:
 - sonstiges🤷:
-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
--
--
--
+---
 > Logbuch 
 >> Deniz Sezer     08.02.2023
 - Themen:         - Daily Standup
