@@ -1,28 +1,3 @@
-> 03.02.2023
-
-- Hausmeisterei Github
-- first touch Registrations/Landingpage
-- Team Meeting
-
-> 07.02.2023
-
-- Anforderungsanalyse Wer Wie Wo Was?
-- Grundlagenkonzeption
-
-> 08.02.2023
-
-- Anforderungsanalyse
-- Docker Setup für Angular, Node, Express
-- Teammeeting
-- Angular Basics
-- Docker Basics
-- Verhaltenskodex
-
-> 09.02.2023
-
-- Anforderungsanalyse finalized
-- Abgabe Mileston I vorbereitung
-
 # dendiss-zone
 
 ## Logbuch Deniz für die Projektzeit
@@ -45,7 +20,7 @@
 
 
 > Logbuch 
-- Deniz Sezer     08.02.2023
+>> Deniz Sezer     08.02.2023
 
 - Themen:         - Daily Standup
                 - Teammeet
@@ -63,7 +38,7 @@
 
 
 > Logbuch
-- Deniz Sezer     07.02.2023
+>> Deniz Sezer     07.02.2023
 
 - Themen:         - Daily Standup
                 - Git Lernspiel
@@ -78,7 +53,7 @@
 
 
 > Logbuch 
-- Deniz Sezer     06.02.2023
+>> Deniz Sezer     06.02.2023
 
 - Themen:         - Kurs: Projektzeit bzw Ablauf Präsentation
                 - Selbständig: Pflege unseres Miro Projekt Boards,
