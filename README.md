@@ -57,7 +57,9 @@
 > Kurs: Projektzeit bzw Ablauf Präsentation
 >> Selbständig:
 >> Pflege unseres Miro Projekt Boards,
->> Hausaufgabe angefangen [Git Lernspiel] (https://learngitbranching.js.org/?locale=de_DE) (Git wird wichtig im Projekt, habe schon mal ein bisschen geübt.)
+
+Hausaufgabe angefangen [Git Lernspiel](https://learngitbranching.js.org/?locale=de_DE) (Git wird wichtig im Projekt, habe schon mal ein bisschen geübt.)
+
 - leicht 🙂:	
 - schwer ☹️:	
 - nachfragen:	
