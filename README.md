@@ -1,10 +1,10 @@
 # dendiss-zone
-Logbuch für die Projekphase-Februar
+> Logbuch für die Projekphase-Februar
 
-!starter_template
 ---
-Logbuch 
-01.02.2023
+>>> !starter_template
+> Logbuch 
+>> 01.02.2023
 - Themen:
 - leicht🙂:
 - schwer☹️:
@@ -12,7 +12,7 @@ Logbuch
 - sonstiges🤷:
 ---
 > Logbuch 
->> Deniz Sezer     08.02.2023
+>> 08.02.2023
 - Themen:       - Daily Standup
                 - Teammeet
                 - Container aufsetzen
@@ -25,11 +25,9 @@ Logbuch
 - nachfragen:     - ich habe ein repository vom übergeordneten Ordner unseres Projekts erstellt.
                   wie kriege ich das wieder weg?
 - sonstiges🤷:    - Die 3 Wochen Aufgabe ist echt hart
--
--
--
+
 > Logbuch
->> Deniz Sezer     07.02.2023
+>> 07.02.2023
 - Themen:         - Daily Standup
                 - Git Lernspiel
                 - versuchen ein container einzurichten (mein setup)
@@ -39,16 +37,14 @@ Logbuch
 - schwer ☹️:      - was im Git Lernspiel vermittelt wird auch tatsächlich in Github einzusetzen.
 - nachfragen:     - Ist dieses persönliche Logbuch so für dich gelungen/ok…?
 - sonstiges 🤷:
--	
--
--
+
 > Logbuch 
->> Deniz Sezer     06.02.2023
+>> 06.02.2023
 - Themen:
 > Kurs: Projektzeit bzw Ablauf Präsentation
 > Selbständig: Pflege unseres Miro Projekt Boards,
 > Hausaufgabe angefangen
-> Git Lernspiel https://learngitbranching.js.org/?locale=de_DE (Git wird wichtig im Projekt, habe schon mal ein bisschen geübt.
+> Git Lernspiel https://learngitbranching.js.org/?locale=de_DE (Git wird wichtig im Projekt, habe schon mal ein bisschen geübt.)
 - leicht 🙂:	
 - schwer ☹️:	
 - nachfragen:	
