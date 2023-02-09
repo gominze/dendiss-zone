@@ -4,19 +4,16 @@
 
 
 > !starter_template
-- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
 > Logbuch 
 >> Deniz Sezer
 >>> 01.02.2023
-
-- Themen:         - Text
-- leicht🙂:       - 
-- schwer☹️:       - 
-- nachfragen:     - 
-- sonstiges🤷:    - 
-
-
-
+- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+- Themen:
+- leicht🙂:
+- schwer☹️:
+- nachfragen:
+- sonstiges🤷:
 - xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 
