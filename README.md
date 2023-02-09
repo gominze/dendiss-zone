@@ -3,7 +3,6 @@
  Logbuch Deniz für die Projektzeit
 
 
-<!--
 !starter_template
 xx
  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
@@ -69,7 +68,6 @@ nachfragen:
 sonstiges 🤷:   hätte mir lieber gewünscht, dass die Text-Dateien vor Montag freigegeben wären.
                 So hätte jeder selbst vorher lesen können und aufgrund dessen wäre das heutige Meet
                 1. kürzer und 2. in einer höheren Qualität gewesen.
-
-
-
--->
+                
+                
+                
