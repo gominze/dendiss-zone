@@ -1,14 +1,10 @@
 # dendiss-zone
-
 ## Logbuch Deniz für die Projektzeit
-
-
-> !starter_template
-
+---
+!starter_template
 # Logbuch 
 ## Deniz Sezer
 ### 01.02.2023
----
 - Themen:
 - leicht🙂:
 - schwer☹️:
