@@ -1,30 +1,18 @@
 # dendiss-zone
 > Logbuch für die Projekphase-Februar
-
 ---
 *!starter_template*
-
 > Logbuch 
-
 >> 01.02.2023
-
 - Themen:
-
 - leicht🙂:
-
 - schwer☹️:
-
 - nachfragen:
-
 - sonstiges🤷:
-
 ---
-
 > Logbuch 
 >> 08.02.2023
-- Themen:
-* Daily Standup
-* Teammeet
+- Themen: * Daily Standup * Teammeet
 * Container aufsetzen
 * Angular Workspace aufsetzen
 * Projektlogbuch anfangen
