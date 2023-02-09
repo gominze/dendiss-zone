@@ -13,7 +13,7 @@ Logbuch
 ---
 > Logbuch 
 >> Deniz Sezer     08.02.2023
-- Themen:         - Daily Standup
+- Themen:       - Daily Standup
                 - Teammeet
                 - Container aufsetzen
                 - Angular Workspace aufsetzen
