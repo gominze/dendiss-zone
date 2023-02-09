@@ -2,7 +2,7 @@
 > Logbuch für die Projekphase-Februar
 
 ---
->>> !starter_template
+*!starter_template*
 > Logbuch 
 >> 01.02.2023
 - Themen:
