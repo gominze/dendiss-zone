@@ -1,11 +1,10 @@
 # dendiss-zone
-## Logbuch für die Projekphase-Februar
+Logbuch für die Projekphase-Februar
 
 !starter_template
 ---
-# Logbuch 
-## Deniz Sezer
-### 01.02.2023
+Logbuch 
+01.02.2023
 - Themen:
 - leicht🙂:
 - schwer☹️:
