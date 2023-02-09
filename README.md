@@ -1,11 +1,35 @@
+> 03.02.2023
+
+- Hausmeisterei Github
+- first touch Registrations/Landingpage
+- Team Meeting
+
+> 07.02.2023
+
+- Anforderungsanalyse Wer Wie Wo Was?
+- Grundlagenkonzeption
+
+> 08.02.2023
+
+- Anforderungsanalyse
+- Docker Setup für Angular, Node, Express
+- Teammeeting
+- Angular Basics
+- Docker Basics
+- Verhaltenskodex
+
+> 09.02.2023
+
+- Anforderungsanalyse finalized
+- Abgabe Mileston I vorbereitung
+
 # dendiss-zone
 
- Logbuch Deniz für die Projektzeit
+## Logbuch Deniz für die Projektzeit
 
 
-!starter_template
-xx
- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+> !starter_template
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
  Logbuch 
  Deniz Sezer     01.02.2023
 
@@ -17,11 +41,10 @@ xx
 
 
 
- xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-xx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 
-Logbuch 
+> Logbuch 
 Deniz Sezer     08.02.2023
 
 Themen:         - Daily Standup
@@ -39,7 +62,7 @@ sonstiges🤷:    - Die 3 Wochen Aufgabe ist echt hart
 
 
 
-Logbuch 
+> Logbuch 
 Deniz Sezer     07.02.2023
 
 Themen:         - Daily Standup
@@ -54,7 +77,7 @@ sonstiges 🤷:
 
 
 
-Logbuch 
+> Logbuch 
 Deniz Sezer     06.02.2023
 
 Themen:         - Kurs: Projektzeit bzw Ablauf Präsentation
