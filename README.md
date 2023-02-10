@@ -2,9 +2,7 @@
 ## Logbuch für die Projekphase-Februar
 > *!starter_template*
 > ### Logbuch 
-
 > 01.02.2023
-
 > - Themen:
 > - leicht🙂:
 > - schwer☹️:
