@@ -1,15 +1,15 @@
 # dendiss-zone
 ## Logbuch für die Projekphase-Februar
-*!starter_template*
-### Logbuch 
+> *!starter_template*
+> ### Logbuch 
 
 > 01.02.2023
 
-- Themen:
-- leicht🙂:
-- schwer☹️:
-- nachfragen:
-- sonstiges🤷:
+> - Themen:
+> - leicht🙂:
+> - schwer☹️:
+> - nachfragen:
+> - sonstiges🤷:
 ---
 ### Logbuch
 
