@@ -36,12 +36,12 @@
 > versuchen ein container einzurichten (mein setup)
 > Projektbesprechung mit Team Minze
 > versuchen Github einzurichten (mein setup)
-- leicht 🙂:	
-- schwer ☹️:
+> - leicht 🙂:	
+> - schwer ☹️:
 > was im Git Lernspiel vermittelt wird auch tatsächlich in Github einzusetzen.
-- nachfragen:
+> - nachfragen:
 > Ist dieses persönliche Logbuch so für dich gelungen/ok…?
-- sonstiges 🤷:
+> - sonstiges 🤷:
 
 ### Logbuch 
 > 06.02.2023
