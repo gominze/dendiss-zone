@@ -17,7 +17,7 @@
 > - schwer☹️:
 > - nachfragen:
 > - sonstiges🤷:
-
+---
 > ### Logbuch 
 > 14.02.2023
 > - Themen: -Standup -TeamDaily -sass/scss
@@ -25,7 +25,7 @@
 > - schwer☹️:
 > - nachfragen:
 > - sonstiges🤷:
- 
+--- 
 > ### Logbuch 
 > 13.02.2023
 > - Themen: -Standup -TeamDaily 
@@ -33,11 +33,11 @@
 > - schwer☹️:
 > - nachfragen:
 > - sonstiges🤷:
- 
+--- 
 > ### Logbuch 
 > 11/12.02.2023
 > - sonstiges🤷: Wochenende
- 
+--- 
 > ### Logbuch 
 > 10.02.2023
 > - Themen: -Standup -TeamDaily 
@@ -45,7 +45,7 @@
 > - schwer☹️:
 > - nachfragen:
 > - sonstiges🤷:
- 
+--- 
 > ### Logbuch 
 > 09.02.2023
 > - Themen: -Standup -TeamDaily 
@@ -53,7 +53,7 @@
 > - schwer☹️:
 > - nachfragen:
 > - sonstiges🤷:
- 
+--- 
 ### Logbuch
 > 08.02.2023
 > - Themen: -Standup -TeamDaily -Container aufsetzen -Angular Workspace aufsetzen -Projektlogbuch anfangen -persönliches Logbuch anfangen
@@ -61,7 +61,7 @@
 > - schwer☹️: -Containeraufsetzen -Nach dem aufsetzen vom Angular, sich im workspace zurechtzufinden
 > - nachfragen: -ich habe ein repository vom übergeordneten Ordner unseres Projekts erstellt. wie kriege ich das wieder weg?
 > - sonstiges🤷: -Die 3 Wochen Aufgabe ist echt hart
-
+---
 ### Logbuch
 > 07.02.2023
 > - Themen: -Standup -TeamDaily -Git Lernspiel -versuchen ein container einzurichten (mein setup) -Projektbesprechung mit Team Minze -versuchen Github einzurichten (mein setup)
@@ -71,7 +71,7 @@
 > - nachfragen:
 > Ist dieses persönliche Logbuch so für dich gelungen/ok…?
 > - sonstiges 🤷:
-
+---
 ### Logbuch 
 > 06.02.2023
 > - Themen: -Standup -TeamDaily -Projektzeit bzw Ablauf Präsentation -Pflege unseres Miro Projekt Boards -Hausaufgabe angefangen [Git Lernspiel](https://learngitbranching.js.org/?locale=de_DE) (Git wird wichtig im Projekt, habe schon mal ein bisschen geübt.)
