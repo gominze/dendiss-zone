@@ -12,10 +12,10 @@
 
 > ### Logbuch 
 > 15.02.2023
-> - Themen: -Standup  
->  -TeamDaily  
->  -restrukturierung des Projekts aufgrund von Bugs und ausstieg eines Members  
->  -Doku überarbeitet und ausstieg aus Github pages.
+> - Themen:       -Standup  
+>                 -TeamDaily  
+>                 -restrukturierung des Projekts aufgrund von Bugs und ausstieg eines Members  
+>                 -Doku überarbeitet und ausstieg aus Github pages.
 > - leicht🙂:
 > - schwer☹️:
 > - nachfragen:
@@ -23,7 +23,9 @@
 ---
 > ### Logbuch 
 > 14.02.2023
-> - Themen: -Standup -TeamDaily -sass/scss
+> - Themen:       -Standup  
+>                 -TeamDaily  
+>                 -sass/scss
 > - leicht🙂:
 > - schwer☹️:
 > - nachfragen:
@@ -31,7 +33,8 @@
 --- 
 > ### Logbuch 
 > 13.02.2023
-> - Themen: -Standup -TeamDaily 
+> - Themen:       -Standup  
+>                 -TeamDaily 
 > - leicht🙂:
 > - schwer☹️:
 > - nachfragen:
@@ -39,11 +42,12 @@
 --- 
 > ### Logbuch 
 > 11/12.02.2023
-> - sonstiges🤷: Wochenende
+> - sonstiges🤷: -Wochenende
 --- 
 > ### Logbuch 
 > 10.02.2023
-> - Themen: -Standup -TeamDaily 
+> - Themen:       -Standup  
+>                 -TeamDaily 
 > - leicht🙂:
 > - schwer☹️:
 > - nachfragen:
@@ -51,7 +55,8 @@
 --- 
 > ### Logbuch 
 > 09.02.2023
-> - Themen: -Standup -TeamDaily 
+> - Themen:       -Standup  
+>                 -TeamDaily 
 > - leicht🙂:
 > - schwer☹️:
 > - nachfragen:
@@ -59,25 +64,38 @@
 --- 
 ### Logbuch
 > 08.02.2023
-> - Themen: -Standup -TeamDaily -Container aufsetzen -Angular Workspace aufsetzen -Projektlogbuch anfangen -persönliches Logbuch anfangen
-> - leicht🙂: -Die Logbücher formlos zu beginnen       
-> - schwer☹️: -Containeraufsetzen -Nach dem aufsetzen vom Angular, sich im workspace zurechtzufinden
-> - nachfragen: -ich habe ein repository vom übergeordneten Ordner unseres Projekts erstellt. wie kriege ich das wieder weg?
-> - sonstiges🤷: -Die 3 Wochen Aufgabe ist echt hart
+> - Themen:       -Standup  
+>                 -TeamDaily  
+>                 -Container aufsetzen  
+>                 -Angular Workspace aufsetzen  
+>                 -Projektlogbuch anfangen  
+>                 -persönliches Logbuch anfangen
+> - leicht🙂:     -Die Logbücher formlos zu beginnen       
+> - schwer☹️:     -Containeraufsetzen  
+>                 -Nach dem aufsetzen vom Angular, sich im workspace zurechtzufinden
+> - nachfragen:   -ich habe ein repository vom übergeordneten Ordner unseres Projekts erstellt. wie kriege ich das wieder weg?
+> - sonstiges🤷:  -Die 3 Wochen Aufgabe ist echt hart
 ---
 ### Logbuch
 > 07.02.2023
-> - Themen: -Standup -TeamDaily -Git Lernspiel -versuchen ein container einzurichten (mein setup) -Projektbesprechung mit Team Minze -versuchen Github einzurichten (mein setup)
+> - Themen:       -Standup  
+>                 -TeamDaily  
+>                 -Git Lernspiel  
+>                 -versuchen ein container einzurichten (mein setup)  
+>                 -Projektbesprechung mit Team Minze  
+>                 -versuchen Github einzurichten (mein setup)
 > - leicht 🙂:	
-> - schwer ☹️:
-> was im Git Lernspiel vermittelt wird auch tatsächlich in Github einzusetzen.
-> - nachfragen:
-> Ist dieses persönliche Logbuch so für dich gelungen/ok…?
+> - schwer ☹️:    -was im Git Lernspiel vermittelt wird auch tatsächlich in Github einzusetzen.  
+> - nachfragen:   -Ist dieses persönliche Logbuch so für dich gelungen/ok…?
 > - sonstiges 🤷:
 ---
 ### Logbuch 
 > 06.02.2023
-> - Themen: -Standup -TeamDaily -Projektzeit bzw Ablauf Präsentation -Pflege unseres Miro Projekt Boards -Hausaufgabe angefangen [Git Lernspiel](https://learngitbranching.js.org/?locale=de_DE) (Git wird wichtig im Projekt, habe schon mal ein bisschen geübt.)
+> - Themen:       -Standup  
+>                 -TeamDaily  
+>                 -Projektzeit bzw Ablauf Präsentation  
+>                 -Pflege unseres Miro Projekt Boards  
+>                 -Hausaufgabe angefangen [Git Lernspiel](https://learngitbranching.js.org/?locale=de_DE) (Git wird wichtig im Projekt, habe schon mal ein bisschen geübt.)
 > - leicht 🙂:	
 > - schwer ☹️:	
 > - nachfragen:	
