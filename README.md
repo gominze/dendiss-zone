@@ -17,6 +17,7 @@
 > - schwer☹️:
 > - nachfragen:
 > - sonstiges🤷:
+> 
 > ### Logbuch 
 > 14.02.2023
 > - Themen:
@@ -24,6 +25,7 @@
 > - schwer☹️:
 > - nachfragen:
 > - sonstiges🤷:
+> 
 > ### Logbuch 
 > 13.02.2023
 > - Themen:
@@ -31,6 +33,7 @@
 > - schwer☹️:
 > - nachfragen:
 > - sonstiges🤷:
+> 
 > ### Logbuch 
 > 11/12.02.2023
 > - Themen:
@@ -38,6 +41,7 @@
 > - schwer☹️:
 > - nachfragen:
 > - sonstiges🤷:
+> 
 > ### Logbuch 
 > 10.02.2023
 > - Themen:
@@ -45,6 +49,7 @@
 > - schwer☹️:
 > - nachfragen:
 > - sonstiges🤷:
+> 
 > ### Logbuch 
 > 09.02.2023
 > - Themen:
@@ -52,6 +57,7 @@
 > - schwer☹️:
 > - nachfragen:
 > - sonstiges🤷:
+> 
 ### Logbuch
 > 08.02.2023
 > - Themen: 
