@@ -12,7 +12,10 @@
 
 > ### Logbuch 
 > 15.02.2023
-> - Themen: -Standup  -TeamDaily  -restrukturierung des Projekts aufgrund von Bugs und ausstieg eines Members  -Doku überarbeitet und ausstieg aus Github pages.
+> - Themen: -Standup  
+>  -TeamDaily  
+>  -restrukturierung des Projekts aufgrund von Bugs und ausstieg eines Members  
+>  -Doku überarbeitet und ausstieg aus Github pages.
 > - leicht🙂:
 > - schwer☹️:
 > - nachfragen:
