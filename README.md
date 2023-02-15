@@ -79,10 +79,7 @@
 
 ### Logbuch
 > 07.02.2023
-> - Themen: * Daily Standup <br> * Git Lernspiel
-> * versuchen ein container einzurichten (mein setup)
-> * Projektbesprechung mit Team Minze
-> * versuchen Github einzurichten (mein setup)
+> - Themen: -Daily Standup -Git Lernspiel -versuchen ein container einzurichten (mein setup) -Projektbesprechung mit Team Minze -versuchen Github einzurichten (mein setup)
 > - leicht 🙂:	
 > - schwer ☹️:
 > was im Git Lernspiel vermittelt wird auch tatsächlich in Github einzusetzen.
