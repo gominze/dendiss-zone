@@ -22,11 +22,11 @@
 ---
 > ### Logbuch 
 > Sonntag 19.02.2023
-> - sonstiges🤷: -Wochenende
+> - sonstiges🤷: Wochenende
 ---  
 > ### Logbuch 
 > Samstag 18.02.2023
-> - sonstiges🤷: -Wochenende
+> - sonstiges🤷: Wochenende
 --- 
 > ### Logbuch 
 > Freitag 17.02.2023
@@ -64,11 +64,11 @@
 --- 
 > ### Logbuch 
 > Sonntag 12.02.2023
-> - sonstiges🤷: -Wochenende
+> - sonstiges🤷: Wochenende
 ---  
 > ### Logbuch 
 > Samstag 11.02.2023
-> - sonstiges🤷: -Wochenende
+> - sonstiges🤷: Wochenende
 --- 
 > ### Logbuch 
 > Freitag 10.02.2023
