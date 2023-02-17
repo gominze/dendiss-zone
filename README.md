@@ -2,8 +2,9 @@
 ## Logbuch für die Projekphase-Februar
 > *!starter_template*
 > ### Logbuch 
-> 01.02.2023
-> - Themen:
+> Wochentag 20.02.2023
+> - Themen:       -Standup  
+>                 -TeamDaily  
 > - leicht🙂:
 > - schwer☹️:
 > - nachfragen:
@@ -11,59 +12,76 @@
 ---
 
 > ### Logbuch 
-> 15.02.2023
+> Montag 20.02.2023
 > - Themen:       -Standup  
 >                 -TeamDaily  
->                 -restrukturierung des Projekts aufgrund von Bugs und ausstieg eines Members  
->                 -Doku überarbeitet und ausstieg aus Github pages.
 > - leicht🙂:
 > - schwer☹️:
 > - nachfragen:
 > - sonstiges🤷:
 ---
 > ### Logbuch 
-> 14.02.2023
-> - Themen:       -Standup  
->                 -TeamDaily  
->                 -sass/scss
-> - leicht🙂:
-> - schwer☹️:
-> - nachfragen:
-> - sonstiges🤷:
---- 
+> Sonntag 19.02.2023
+> - sonstiges🤷: -Wochenende
+---  
 > ### Logbuch 
-> 13.02.2023
-> - Themen:       -Standup  
->                 -TeamDaily 
-> - leicht🙂:
-> - schwer☹️:
-> - nachfragen:
-> - sonstiges🤷:
---- 
-> ### Logbuch 
-> 11/12.02.2023
+> Samstag 18.02.2023
 > - sonstiges🤷: -Wochenende
 --- 
 > ### Logbuch 
-> 10.02.2023
+> Freitag 17.02.2023
 > - Themen:       -Standup  
->                 -TeamDaily 
-> - leicht🙂:
-> - schwer☹️:
-> - nachfragen:
-> - sonstiges🤷:
+>                 -TeamDaily  
+>                 -install mysql
+>                 -versuch json datei in datenbank einzupflegen
+>                 -großes Logbuch update
+>---
+> ### Logbuch 
+> Donnerstag 16.02.2023
+> - Themen:       -Standup  
+>                 -TeamDaily  
+>                 -Meet mit Benny/Ivan/Colin
+>                 -fertigstellung Dokumentation Woche 2
+>                 -fertigstellung Projektlogbuch Woche 2
+>---
+> ### Logbuch 
+> Mittwoch 15.02.2023
+> - Themen:       -Standup  
+>                 -TeamDaily  
+>                 -restrukturierung des Projekts aufgrund von Bugs und ausstieg eines Members  
+>                 -Doku überarbeitet und ausstieg aus Github pages.
+---
+> ### Logbuch 
+> Dienstag 14.02.2023
+> - Themen:       -Standup  
+>                 -TeamDaily  
+>                 -creating a sass/scss workspace
 --- 
 > ### Logbuch 
-> 09.02.2023
+> Montag 13.02.2023
 > - Themen:       -Standup  
 >                 -TeamDaily 
-> - leicht🙂:
-> - schwer☹️:
-> - nachfragen:
-> - sonstiges🤷:
+--- 
+> ### Logbuch 
+> Sonntag 12.02.2023
+> - sonstiges🤷: -Wochenende
+---  
+> ### Logbuch 
+> Samstag 11.02.2023
+> - sonstiges🤷: -Wochenende
+--- 
+> ### Logbuch 
+> Freitag 10.02.2023
+> - Themen:       -Standup  
+>                 -TeamDaily
+--- 
+> ### Logbuch 
+> Donnerstag 09.02.2023
+> - Themen:       -Standup  
+>                 -TeamDaily
 --- 
 ### Logbuch
-> 08.02.2023
+> Mittwoch 08.02.2023
 > - Themen:       -Standup  
 >                 -TeamDaily  
 >                 -Container aufsetzen  
@@ -77,26 +95,24 @@
 > - sonstiges🤷:  -Die 3 Wochen Aufgabe ist echt hart
 ---
 ### Logbuch
-> 07.02.2023
+> Dienstag 07.02.2023
 > - Themen:       -Standup  
 >                 -TeamDaily  
 >                 -Git Lernspiel  
 >                 -versuchen ein container einzurichten (mein setup)  
 >                 -Projektbesprechung mit Team Minze  
 >                 -versuchen Github einzurichten (mein setup)
-> - leicht 🙂:	
 > - schwer ☹️:    -was im Git Lernspiel vermittelt wird auch tatsächlich in Github einzusetzen.  
 > - nachfragen:   -Ist dieses persönliche Logbuch so für dich gelungen/ok…?
-> - sonstiges 🤷:
 ---
 ### Logbuch 
-> 06.02.2023
+> Montag 06.02.2023
 > - Themen:       -Standup  
 >                 -TeamDaily  
 >                 -Projektzeit bzw Ablauf Präsentation  
 >                 -Pflege unseres Miro Projekt Boards  
->                 -Hausaufgabe angefangen [Git Lernspiel](https://learngitbranching.js.org/?locale=de_DE) (Git wird wichtig im Projekt, habe schon mal ein bisschen geübt.)
-> - leicht 🙂:	
-> - schwer ☹️:	
-> - nachfragen:	
-> - sonstiges 🤷: -hätte mir lieber gewünscht, dass die Text-Dateien vor Montag freigegeben wären. So hätte jeder selbst vorher lesen können und aufgrund dessen wäre das heutige Meet 1. kürzer und 2. in einer höheren Qualität gewesen.
+>                 -Hausaufgabe angefangen [Git Lernspiel](https://learngitbranching.js.org/?locale=de_DE)
+>                  (Git wird wichtig im Projekt, habe schon mal ein bisschen geübt.)
+> - sonstiges 🤷: -hätte mir lieber gewünscht, dass die Text-Dateien vor Montag freigegeben wären.
+>                  So hätte jeder selbst vorher lesen können und 
+>                  aufgrund dessen wäre das heutige Meet 1. kürzer und 2. in einer höheren Qualität gewesen.
