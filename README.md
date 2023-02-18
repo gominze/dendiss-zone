@@ -1,4 +1,4 @@
-# dendiss-zone
+# denndiss-zone
 ## Logbuch für die Projekphase-Februar
 > *!starter_template*
 > ### Logbuch 
