@@ -121,6 +121,5 @@
 >                 -TeamDaily  
 >                 -Projektzeit bzw Ablauf Präsentation  
 >                 -Pflege unseres Miro Projekt Boards  
->                 -Hausaufgabe angefangen [Git Lernspiel](https://learngitbranching.js.org/?locale=de_DE)  
->                  (Git wird wichtig im Projekt, habe schon mal ein bisschen geübt.)  
+>                 -Hausaufgabe angefangen [Git Lernspiel](https://learngitbranching.js.org/?locale=de_DE) (Git wird wichtig im Projekt, habe schon mal ein bisschen geübt.)  
 > - sonstiges 🤷: -hätte mir lieber gewünscht, dass die Text-Dateien vor Montag freigegeben wären. So hätte jeder selbst vorher lesen können und aufgrund dessen wäre das heutige Meet 1. kürzer und 2. in einer höheren Qualität gewesen.  
