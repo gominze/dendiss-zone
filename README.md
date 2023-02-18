@@ -15,6 +15,9 @@
 > Montag 20.02.2023
 > - Themen:       -Standup  
 >                 -TeamDaily  
+>                 -firebase account erstellen
+>                 -firebase projekt erstellen
+>                 -firebase database erstellen
 > - leicht🙂:
 > - schwer☹️:
 > - nachfragen:
@@ -32,6 +35,7 @@
 > Freitag 17.02.2023
 > - Themen:       -Standup  
 >                 -TeamDaily  
+>                 -Meilenstein II neu formatieren und fertig abschicken
 >                 -install mysql
 >                 -versuch json datei in datenbank einzupflegen
 >                 -großes Logbuch update
@@ -43,24 +47,27 @@
 >                 -Meet mit Benny/Ivan/Colin
 >                 -fertigstellung Dokumentation Woche 2
 >                 -fertigstellung Projektlogbuch Woche 2
+>                 -Meilenstein II fertig abschicken
 >---
 > ### Logbuch 
 > Mittwoch 15.02.2023
 > - Themen:       -Standup  
 >                 -TeamDaily  
 >                 -restrukturierung des Projekts aufgrund von Bugs und ausstieg eines Members  
->                 -Doku überarbeitet und ausstieg aus Github pages.
+>                 -Doku überarbeiten und ausstieg aus Github pages.
 ---
 > ### Logbuch 
 > Dienstag 14.02.2023
 > - Themen:       -Standup  
 >                 -TeamDaily  
 >                 -creating a sass/scss workspace
+>                 _frontend arbeiten stilllegen und aufs backend konzentrieren
 --- 
 > ### Logbuch 
 > Montag 13.02.2023
 > - Themen:       -Standup  
->                 -TeamDaily 
+>                 -TeamDaily
+>                 -frontend recherche/inspiration und möglichkeiten aussuchen
 --- 
 > ### Logbuch 
 > Sonntag 12.02.2023
@@ -74,11 +81,14 @@
 > Freitag 10.02.2023
 > - Themen:       -Standup  
 >                 -TeamDaily
+>                 -kanban Board aktuell halten
+>                 -Meilenstein I abgabe (wenn nötig)
 --- 
 > ### Logbuch 
 > Donnerstag 09.02.2023
 > - Themen:       -Standup  
 >                 -TeamDaily
+>                 -Meilenstein I fertig machen
 --- 
 ### Logbuch
 > Mittwoch 08.02.2023
