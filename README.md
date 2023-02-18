@@ -18,6 +18,7 @@
 >                 -firebase account erstellen  
 >                 -firebase projekt erstellen  
 >                 -firebase database erstellen  
+>                 -Database läuft!
 > - leicht🙂:
 > - schwer☹️:
 > - nachfragen:
@@ -39,6 +40,7 @@
 >                 -install mysql  
 >                 -versuch json datei in datenbank einzupflegen  
 >                 -großes Logbuch update  
+>                 -firebase angucken
 >---
 > ### Logbuch 
 > Donnerstag 16.02.2023
@@ -55,6 +57,7 @@
 >                 -TeamDaily  
 >                 -restrukturierung des Projekts aufgrund von Bugs und ausstieg eines Members  
 >                 -Doku überarbeiten und ausstieg aus Github pages.  
+>                 -radial Menu einpflegen oder rausschmeißen  
 ---
 > ### Logbuch 
 > Dienstag 14.02.2023
@@ -83,12 +86,14 @@
 >                 -TeamDaily  
 >                 -kanban Board aktuell halten  
 >                 -Meilenstein I abgabe (wenn nötig)  
+>                 -Datenbanken angucken!
 --- 
 > ### Logbuch 
 > Donnerstag 09.02.2023
 > - Themen:       -Standup  
 >                 -TeamDaily  
 >                 -Meilenstein I fertig machen  
+>                 -Ein Frontend überlegen
 --- 
 ### Logbuch
 > Mittwoch 08.02.2023
