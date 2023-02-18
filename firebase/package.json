@@ -1,0 +1,23 @@
+{
+  "name": "stimmungsindex",
+  "version": "1.0.0",
+  "description": "test deniz creating database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gominze/dendiss-zone.git"
+  },
+  "author": "deniz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gominze/dendiss-zone/issues"
+  },
+  "homepage": "https://github.com/gominze/dendiss-zone#readme",
+  "dependencies": {
+    "firebase": "^9.17.1",
+    "vite": "^4.1.2"
+  }
+}
