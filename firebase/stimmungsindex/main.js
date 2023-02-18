@@ -1,7 +1,10 @@
+//einfach eingesetzt was auf firebase war
 // Import the functions you need from the SDKs you need
 import { initializeApp } from "firebase/app";
 import { getAnalytics } from "firebase/analytics";
-import {onSnapshot, getDoc, getDocFromCache, doc, getFirestore, addDoc, DocumentSnapshot, Firestore, DocumentReference, updateDoc, setDoc, getDocs, collection, documentId } from "firebase/firestore";
+
+//dieser import ist vom random programm nicht 
+import { onSnapshot, getDoc, getDocFromCache, doc, getFirestore, addDoc, DocumentSnapshot, Firestore, DocumentReference, updateDoc, setDoc, getDocs, collection, documentId } from "firebase/firestore";
 
 // TODO: Add SDKs for Firebase products that you want to use
 // https://firebase.google.com/docs/web/setup#available-libraries
@@ -22,17 +25,16 @@ const firebaseConfig = {
 const app = initializeApp(firebaseConfig);
 const analytics = getAnalytics(app);
 
-firebase.initializeApp(firebaseConfig);
 
-// ab hier schreibe ich das kleine Programm weil ich das Json Thema noch nicht kann!
-const firebase = initializeApp(firebaseConfig);
-const db = getFirestore();
+
+//ab hier ein erstmal ein random programm als Testlauf weil das Json Thema noch etwas ungewiss ist!
+const db = getFirestore()
 
 
 
 document.getElementById("go").addEventListener("click", () => {
-  alert(send)
+  alert("send")
   const docRef = addDoc(collection(db,"User"), {
-    Text:"Text"
+    Text: document.getElementById("input").value
   })
-});
+})
