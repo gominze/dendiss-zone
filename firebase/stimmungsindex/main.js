@@ -31,10 +31,26 @@ const analytics = getAnalytics(app);
 const db = getFirestore()
 
 
-
+//function für Textfeld 1
 document.getElementById("go").addEventListener("click", () => {
-  alert("send")
+  alert("Ihre Stimmungseingaben werden an den Server gesendet")
   const docRef = addDoc(collection(db,"User"), {
     Text: document.getElementById("input").value
+  })
+})
+
+//function für Textfeld 2
+document.getElementById("go2").addEventListener("click", () => {
+  alert("Ihre Stimmungseingaben werden an den Server gesendet")
+  const docRef = addDoc(collection(db,"User"), {
+    Text: document.getElementById("input2").value
+  })
+})
+
+//function für JSON Feld
+document.getElementById("go3").addEventListener("click", () => {
+  alert("send")
+  const docRef = addDoc(collection(db,"User"), {
+    Text: document.getElementById("input3").value
   })
 })
