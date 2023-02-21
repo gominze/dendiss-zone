@@ -14,12 +14,12 @@
 > ### Logbuch 
 > Dienstag Wochentag 20.02.2023
 > - Themen:       -Standup  
->                 -TeamDaily
->                 -angefangen Daten aus der Datenbank zu ziehen und sie wo anders anzeigen zu lassen
->                 -firebase html / firebase js verbindungen versucht zu verstehen
+>                 -TeamDaily  
+>                 -angefangen Daten aus der Datenbank zu ziehen und sie wo anders anzeigen zu lassen  
+>                 -firebase html / firebase js verbindungen versucht zu verstehen  
 >                 -Benutzerlogin Anforderungsanalyse  
-> - schwer☹️:     -codes verstehen/nachvollziehen
->                 -debuggen
+> - schwer☹️:     -codes verstehen/nachvollziehen  
+>                 -debuggen  
 ---
 > ### Logbuch 
 > Montag 20.02.2023
@@ -28,9 +28,9 @@
 >                 -firebase account erstellen  
 >                 -firebase projekt erstellen  
 >                 -firebase database erstellen  
->                 -Database läuft!
-> - leicht🙂:     -Google Cloud Benutzerfreundlich
->                 -Google Firestore Database
+>                 -Database läuft!  
+> - leicht🙂:     -Google Cloud Benutzerfreundlich  
+>                 -Google Firestore Database  
 ---
 > ### Logbuch 
 > Sonntag 19.02.2023
